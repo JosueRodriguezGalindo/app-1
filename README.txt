@@ -1,1 +1,3 @@
-Bienvenido al mini curso de Git
+Bienvenido al curso de Git 
+
+Este es un ejemplo de modificacion
