@@ -1,0 +1,1 @@
+Bienvenido al mini curso de Git
